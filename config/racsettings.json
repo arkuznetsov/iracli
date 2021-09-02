@@ -2,16 +2,12 @@
     "ras" : {
         "__default" : {
             "rac"        : "8.3",
-            "admin_name" : "",
-            "admin_pwd"  : ""
+            "admin_name" : "admin",
+            "admin_pwd"  : "q2w3e4r5"
         },
-        "server1" : {
+        "localhost" : {
             "reserves" : "",
-            "ras"      : "server1:1545"
-        },
-        "server2" : {
-            "reserves" : "server1",
-            "ras"      : "server2:1545"
+            "ras"      : "localhost:1545"
         }
     },
     "cluster" : {
@@ -19,9 +15,9 @@
             "admin_name" : "",
             "admin_pwd"  : ""
         },
-        "server1:1541" : {
-            "admin_name" : "admin",
-            "admin_pwd"  : "\"admin pwd\"",
+        "localhost:1541" : {
+            "admin_name" : "",
+            "admin_pwd"  : "",
             "infobase" : {
                 "__default" : {
                     "admin_name" : "Администратор",
@@ -32,6 +28,7 @@
     },
 	"reconnectAtempts"         : 3,
 	"reconnectInterval"        : 1500,
+	"cacheTimeout"             : 30,
 	"logQueryDuration"         : false,
 	"QueryDurationLogFilename" : ""
 }
