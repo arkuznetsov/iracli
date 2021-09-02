@@ -1,8 +1,8 @@
 .vscode
-tmp*
+oscript_modules
+cache
 coverage
 test-reports
+tmp*
 *.ospx
 
-
-oscript_modules/
