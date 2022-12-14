@@ -1,11 +1,13 @@
-# Comand line interface for RAC
-
 [![GitHub release](https://img.shields.io/github/release/ArKuznetsov/iracli.svg?style=flat-square)](https://github.com/ArKuznetsov/iracli/releases)
 [![GitHub license](https://img.shields.io/github/license/ArKuznetsov/iracli.svg?style=flat-square)](https://github.com/ArKuznetsov/iracli/blob/develop/LICENSE)
 [![Build Status](https://img.shields.io/github/workflow/status/ArKuznetsov/iracli/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%20%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0)](https://github.com/arkuznetsov/iracli/actions/)
 [![Quality Gate](https://open.checkbsl.org/api/project_badges/measure?project=iracli&metric=alert_status)](https://open.checkbsl.org/dashboard/index/iracli)
 [![Coverage](https://open.checkbsl.org/api/project_badges/measure?project=iracli&metric=coverage)](https://open.checkbsl.org/dashboard/index/iracli)
 [![Tech debt](https://open.checkbsl.org/api/project_badges/measure?project=iracli&metric=sqale_index)](https://open.checkbsl.org/dashboard/index/iracli)
+
+<div style="text-align:right"><a href="https://checkbsl.org"><img alt="Checked by Silver Bulleters SonarQube BSL plugin" src="https://web-files.do.bit-erp.ru/sonar/b_t.png" style="width:400px"/></a></div>
+
+# Comand line interface for RAC
 
 Приложение oscript для взаимодействия с сервисом администрирования 1С
 
